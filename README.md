@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Hash Table
+|  |
+| ------- |
+| [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
 <!---LeetCode Topics End-->
