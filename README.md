@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
