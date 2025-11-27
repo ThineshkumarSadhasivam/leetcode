@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4008-restore-finishing-order) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [4008-restore-finishing-order](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4008-restore-finishing-order) |
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
 ## Counting Sort
