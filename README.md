@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0029-divide-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1580-shuffle-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -52,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [4008-restore-finishing-order](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4008-restore-finishing-order) |
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
