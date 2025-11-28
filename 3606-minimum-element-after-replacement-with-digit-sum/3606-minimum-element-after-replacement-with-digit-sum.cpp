@@ -11,7 +11,13 @@ public:
             }
             res.push_back(rev);
         }
-        sort(res.begin(),res.end());
-        return res[0];
+        //int min=res[0];
+        //for(int i=0;i<n;i++){
+            //if(res[i]<min)
+                //min=res[i];
+        //}
+        //return min;
+        int mn = *min_element(res.begin(), res.end());
+        return mn;
     }
 };
