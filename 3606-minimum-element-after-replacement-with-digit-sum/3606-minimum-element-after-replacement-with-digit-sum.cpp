@@ -17,7 +17,7 @@ public:
                 //min=res[i];
         //}
         //return min;
-        int mn = *min_element(res.begin(), res.end());
-        return mn;
+        sort(res.begin(),res.end());
+        return res[0];
     }
 };
