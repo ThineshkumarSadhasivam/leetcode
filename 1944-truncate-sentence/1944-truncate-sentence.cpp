@@ -1,0 +1,15 @@
+class Solution {
+public:
+    string truncateSentence(string s, int k) {
+        int count=0;
+        string result;
+        for(char ch:s){
+            if(ch==' ')
+                count++;
+            if(count==k)
+                break;
+            result+=ch;
+        }
+        return result;
+    }
+};
