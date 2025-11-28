@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int minElement(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>res;
+        for(int i=0;i<n;i++){
+            int rev=0;
+            while(nums[i]>0){
+                rev+=nums[i]%10;
+                nums[i]/=10;
+            }
+            res.push_back(rev);
+        }
+        sort(res.begin(),res.end());
+        return res[0];
+    }
+};
