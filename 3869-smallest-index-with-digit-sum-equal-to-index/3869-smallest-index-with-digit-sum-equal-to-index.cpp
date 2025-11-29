@@ -10,9 +10,9 @@ public:
                 sum +=temp % 10;
                 temp /= 10;
             }
-                if(sum==i)
-                    return i;
-            }
+            if(sum==i)
+                return i;
+        }
         return -1;   
     }
 };
