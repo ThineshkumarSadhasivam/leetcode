@@ -8,7 +8,6 @@ public:
         for(int i=1;i<n && res.size()<k ;i++){
             if(nums[i]!=nums[i-1]){
                 res.push_back(nums[i]);
-                int m=res.size();
             }
         }
         return res;
