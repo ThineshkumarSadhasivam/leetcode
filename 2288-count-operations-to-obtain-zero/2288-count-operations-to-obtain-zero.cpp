@@ -7,11 +7,7 @@ public:
                 num2=num2-num1;
                 count++;
             }
-            else if(num1>num2){
-                num1=num1-num2;
-                count++;
-            }
-            else{
+            else if((num1>num2) || (num1==num2)){
                 num1=num1-num2;
                 count++;
             }
