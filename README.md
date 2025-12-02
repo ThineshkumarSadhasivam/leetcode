@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0029-divide-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
