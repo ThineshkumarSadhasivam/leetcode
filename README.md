@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
