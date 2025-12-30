@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4168-mirror-distance-of-an-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
