@@ -6,10 +6,11 @@ public:
         sort(nums.begin(),nums.end());
         for(int i=0;i<k;i++){
             max+=nums[i];
+            min+=nums[n-i-1];
         }
-        for(int i=n-k;i<n;i++){
-            min+=nums[i];
-        }
+        //for(int i=n-k;i<n;i++){
+            //min+=nums[i];
+        //}
         return abs(max-min);
     }
 };
