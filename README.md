@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4008-restore-finishing-order) |
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 | [4158-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4158-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 | [4158-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4158-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Enumeration
+|  |
+| ------- |
+| [4112-maximize-expression-of-three-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
