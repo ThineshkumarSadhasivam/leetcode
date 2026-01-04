@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2756-buy-two-chocolates](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2756-buy-two-chocolates](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2756-buy-two-chocolates](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
