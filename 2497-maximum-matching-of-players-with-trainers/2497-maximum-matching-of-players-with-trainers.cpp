@@ -5,7 +5,8 @@ public:
         sort(trainers.begin(), trainers.end());
         int i = 0, j = 0;
         int matches = 0;
-        while (i < players.size() && j < trainers.size()) {
+        int n=players.size(),p=trainers.size();
+        while (i < n && j < p) {
             if (players[i] <= trainers[j]) {
                 matches++;
                 i++;
