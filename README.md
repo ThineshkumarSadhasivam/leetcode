@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0941-sort-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
