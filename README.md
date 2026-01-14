@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4168-mirror-distance-of-an-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3582-find-indices-of-stable-mountains](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -233,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
