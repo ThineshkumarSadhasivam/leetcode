@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2714-left-and-right-sum-differences](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4112-maximize-expression-of-three-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
