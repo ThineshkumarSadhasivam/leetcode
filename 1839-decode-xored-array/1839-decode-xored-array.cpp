@@ -5,7 +5,7 @@ public:
         int n=encoded.size();
         res.push_back(first);
         for(int i=0;i<n;i++){
-            int x=encoded[i]^res[i];
+            int x=res[i]^encoded[i];
             res.push_back(x);
         }
         return res;
