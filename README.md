@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1839-decode-xored-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1839-decode-xored-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1839-decode-xored-array) |
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
