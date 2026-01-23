@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -255,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
