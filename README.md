@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2998-count-symmetric-integers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2507-number-of-common-factors) |
+| [2998-count-symmetric-integers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2998-count-symmetric-integers) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Prefix Sum
 |  |
