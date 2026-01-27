@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2507-number-of-common-factors) |
