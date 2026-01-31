@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0455-assign-cookies) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0941-sort-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
