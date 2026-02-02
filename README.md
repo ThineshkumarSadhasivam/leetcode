@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3817-maximum-containers-on-a-ship](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3859-maximum-product-of-two-digits](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4168-mirror-distance-of-an-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
