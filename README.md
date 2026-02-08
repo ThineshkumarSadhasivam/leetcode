@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1656-count-good-triplets) |
+| [1833-find-the-highest-altitude](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1839-decode-xored-array) |
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
