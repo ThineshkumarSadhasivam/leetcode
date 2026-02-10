@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool checkPowersOfThree(int n) {
-        int count=0;
+        //int count=0;
         while(n>0){
             if(n%3==2)
                 return false;
-            else{
+            //else{
                 n/=3;
-                count++;
-            }
+                //count++;
+            //}
         }
-        if(count>0)
+        //if(count>0)
             return true;
-        return false;
+        //return false;
     }
 };
