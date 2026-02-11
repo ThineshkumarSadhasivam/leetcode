@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0343-integer-break) |
+| [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0455-assign-cookies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0343-integer-break) |
+| [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1086-divisor-game) |
 | [1503-reducing-dishes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1503-reducing-dishes) |
 ## Brainteaser
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1086-divisor-game) |
 ## Divide and Conquer
 |  |
