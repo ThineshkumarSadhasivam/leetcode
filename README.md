@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1503-reducing-dishes) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
