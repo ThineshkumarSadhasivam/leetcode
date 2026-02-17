@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Greedy
 |  |
 | ------- |
