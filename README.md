@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0343-integer-break) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1839-decode-xored-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
