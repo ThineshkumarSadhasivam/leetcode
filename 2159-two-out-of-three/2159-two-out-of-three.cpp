@@ -13,17 +13,15 @@ public:
         for(int x=0;x<nums2.size();x++){
             for(int y=0;y<nums3.size();y++){
                 if(nums2[x]==nums3[y])
-                    res1.push_back(nums2[x]);
+                    res.push_back(nums2[x]);
             }
         }
         for(int x=0;x<nums1.size();x++){
             for(int y=0;y<nums3.size();y++){
                 if(nums1[x]==nums3[y])
-                    res2.push_back(nums1[x]);
+                    res.push_back(nums1[x]);
             }
         }
-        res.insert(res.end(),res1.begin(),res1.end());
-        res.insert(res.end(),res2.begin(),res2.end());
         sort(res.begin(),res.end());
         res.erase(unique(res.begin(), res.end()), res.end());
         return res;
