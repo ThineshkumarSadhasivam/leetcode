@@ -1,0 +1,31 @@
+class Solution {
+public:
+    vector<int> twoOutOfThree(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3) {
+        vector<int>res;
+        vector<int>res1;
+        vector<int>res2;
+        for(int i=0;i<nums1.size();i++){
+            for(int j=0;j<nums2.size();j++){
+                if(nums1[i]==nums2[j])
+                    res.push_back(nums1[i]);
+            }
+        }
+        for(int x=0;x<nums2.size();x++){
+            for(int y=0;y<nums3.size();y++){
+                if(nums2[x]==nums3[y])
+                    res1.push_back(nums2[x]);
+            }
+        }
+        for(int x=0;x<nums1.size();x++){
+            for(int y=0;y<nums3.size();y++){
+                if(nums1[x]==nums3[y])
+                    res2.push_back(nums1[x]);
+            }
+        }
+        res.insert(res.end(),res1.begin(),res1.end());
+        res.insert(res.end(),res2.begin(),res2.end());
+        sort(res.begin(),res.end());
+        res.erase(unique(res.begin(), res.end()), res.end());
+        return res;
+    }
+};
