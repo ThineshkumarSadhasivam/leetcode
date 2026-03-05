@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-maximum-product-of-two-digits](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [3994-find-the-least-frequent-digit](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4168-mirror-distance-of-an-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3994-find-the-least-frequent-digit](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4008-restore-finishing-order) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3994-find-the-least-frequent-digit](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3994-find-the-least-frequent-digit](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
