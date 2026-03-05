@@ -2,7 +2,7 @@ class Solution {
 public:
     int getLeastFrequentDigit(int n) {
         int rev=0;
-        int freq[256]={};
+        int freq[11]={};
         vector<int>res;
         while(n>0){
             int digit=n%10;
@@ -14,7 +14,7 @@ public:
         }
         int min=INT_MAX;
         int result=-1;
-        for(int i=0;i<255;i++){
+        for(int i=0;i<10;i++){
             if(freq[i]>0 && freq[i]<min){
                 min=freq[i];
                 result=i;
