@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2998-count-symmetric-integers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3227-find-missing-and-repeated-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3227-find-missing-and-repeated-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
