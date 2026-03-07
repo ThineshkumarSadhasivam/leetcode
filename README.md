@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2102-find-the-middle-index-in-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
