@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1054-complement-of-base-10-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1839-decode-xored-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1839-decode-xored-array) |
 | [2159-two-out-of-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2159-two-out-of-three) |
