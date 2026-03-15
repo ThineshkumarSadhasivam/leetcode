@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 | [4158-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4158-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [4247-minimum-capacity-box](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4247-minimum-capacity-box) |
 ## Sorting
 |  |
 | ------- |
