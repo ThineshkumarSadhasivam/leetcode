@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2634-minimum-common-value](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2634-minimum-common-value](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
