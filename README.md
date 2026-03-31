@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
