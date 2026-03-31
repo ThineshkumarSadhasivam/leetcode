@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2727-number-of-senior-citizens) |
