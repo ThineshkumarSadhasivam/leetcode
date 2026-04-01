@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2159-two-out-of-three) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
