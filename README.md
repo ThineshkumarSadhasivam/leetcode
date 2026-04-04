@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0029-divide-two-integers) |
+| [0263-ugly-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0343-integer-break) |
