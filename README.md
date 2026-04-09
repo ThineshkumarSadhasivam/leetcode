@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3396-valid-word](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
