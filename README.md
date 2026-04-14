@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0205-isomorphic-strings) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
