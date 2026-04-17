@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1503-reducing-dishes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1503-reducing-dishes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1503-reducing-dishes) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
