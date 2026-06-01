@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0137-single-number-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0053-maximum-subarray) |
 | [0343-integer-break](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0343-integer-break) |
 | [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1086-divisor-game) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0347-top-k-frequent-elements) |
