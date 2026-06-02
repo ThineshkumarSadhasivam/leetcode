@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0053-maximum-subarray) |
 | [0343-integer-break](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0343-integer-break) |
 | [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1086-divisor-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1086-divisor-game) |
 | [1503-reducing-dishes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1503-reducing-dishes) |
 ## Brainteaser
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
 | ------- |
@@ -468,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
