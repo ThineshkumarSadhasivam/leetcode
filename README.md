@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
