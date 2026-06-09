@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0389-find-the-difference) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
