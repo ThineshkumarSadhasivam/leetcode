@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -502,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
