@@ -511,5 +511,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
