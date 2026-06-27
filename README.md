@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0216-combination-sum-iii) |
 ## Linked List
 |  |
