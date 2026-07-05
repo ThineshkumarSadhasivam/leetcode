@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0047-permutations-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0202-happy-number) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
