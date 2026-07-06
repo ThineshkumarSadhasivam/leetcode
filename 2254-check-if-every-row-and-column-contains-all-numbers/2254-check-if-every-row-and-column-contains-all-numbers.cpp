@@ -5,7 +5,7 @@ public:
         int m=matrix[0].size();
         vector<unordered_set<int>> row(n),col(m);
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+            for(int j=0;j<n;j++){
                 int val=matrix[i][j];
                 if(row[i].count(val) || col[j].count(val))
                     return false;
