@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1503-reducing-dishes) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1503-reducing-dishes) |
 | [1961-maximum-ice-cream-bars](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bucket Sort
 |  |
