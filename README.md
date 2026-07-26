@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0343-integer-break) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1013-fibonacci-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1137-height-checker) |
