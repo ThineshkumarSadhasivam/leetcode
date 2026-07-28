@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4107-find-missing-elements](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4107-find-missing-elements) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3396-valid-word](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
