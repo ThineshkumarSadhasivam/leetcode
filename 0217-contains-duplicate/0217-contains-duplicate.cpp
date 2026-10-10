@@ -9,6 +9,7 @@ public:
     //     }
     //     return false;
     // }
+
     std::unordered_set<int>set1;
     for(int x:nums){
         if(set1.find(x)==set1.end())
