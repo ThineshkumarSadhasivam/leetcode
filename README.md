@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1839-decode-xored-array) |
 | [2159-two-out-of-three](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Array
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2486-most-frequent-even-element) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1944-truncate-sentence](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/1944-truncate-sentence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2727-number-of-senior-citizens](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3396-valid-word](https://github.com/ThineshkumarSadhasivam/leetcode/tree/master/3396-valid-word) |
