@@ -13,20 +13,33 @@ public:
     //         }
     //     }
     // return arr;
+        // for(int i=0;i<n;i++){
+        //     nums[i]={arr[i],i};
+        // }
+        // sort(nums.begin(),nums.end());
+        // int left=0,right=n-1;
+        // while(left<right){
+        //     int sum=nums[left].first+nums[right].first;
+        //     if(sum==target)
+        //         return {nums[left].second, nums[right].second};
+        //     else if(sum>target)
+        //         right--;
+        //     else
+        //         left++;
+        // }
+        // return {};
+
+        std::unordered_map<int,int>seen;
+        
         for(int i=0;i<n;i++){
-            nums[i]={arr[i],i};
-        }
-        sort(nums.begin(),nums.end());
-        int left=0,right=n-1;
-        while(left<right){
-            int sum=nums[left].first+nums[right].first;
-            if(sum==target)
-                return {nums[left].second, nums[right].second};
-            else if(sum>target)
-                right--;
-            else
-                left++;
+            int rem=target-arr[i];
+
+        if(seen.count(rem))
+            return{seen[rem],i};
+        
+        seen[arr[i]]=i;
         }
         return {};
+    
     }
 };
